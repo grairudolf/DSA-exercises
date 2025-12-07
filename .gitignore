@@ -1,0 +1,21 @@
+# Build artifacts
+/build/
+/bin/
+/obj/
+/out/
+
+# Compiled objects and binaries
+*.o
+*.obj
+*.exe
+*.pdb
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
